@@ -1,0 +1,12 @@
+Changes
+lib/Mojar/OpSys.pm
+lib/Mojar/OpSys/Ps.pm
+LICENSE
+Makefile.PL
+MANIFEST
+MANIFEST.SKIP
+README.md
+test/00-load.t
+test/manifest.t
+test/pod.t
+test/version.t
