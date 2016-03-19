@@ -1,5 +1,12 @@
+0.021 2016-03-18
+  - Add cacheing of table (Ps).
+  - Add refresh of table (Ps).
+  - Add dumper of process (Ps).
+  - Add collection of processes (Ps).
+  - Add dumper of collection (Ps).
+
 0.011 2016-03-17
-  - Fixed lots of bugs (Ps). :bug:
+  - Fixed lots of bugs (Ps).
 
 0.001 2014-06-18
   - Initial public release (Ps).
